@@ -9,7 +9,7 @@ textarea {
   border: none;
   resize: none;
   color: #000000;
-  border: 1px solid black;
+  border: 1px solid black; /* changed border to all sides */
   padding: 10px;
 }
 
